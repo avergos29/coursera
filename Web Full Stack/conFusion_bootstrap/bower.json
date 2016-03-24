@@ -1,7 +1,7 @@
 {
   "name": "conFusion",
-  "version": "1.0.0",
-  "description": "Website for an awesome restaurant",
+  "homepage": "https://github.com/avergos29/coursera",
+  "description": "",
   "main": "index.html",
   "moduleType": [],
   "keywords": [
@@ -10,10 +10,9 @@
     "Restaurant"
   ],
   "authors": [
-    "Jogesh Muppala"
+    "antoine"
   ],
   "license": "MIT",
-  "homepage": "",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -22,8 +21,7 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": "~3.3.5",
-    "font-awesome": "~4.4.0",
-    "angular": "~1.4.7"
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0"
   }
 }
